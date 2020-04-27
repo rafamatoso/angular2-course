@@ -2,7 +2,7 @@
 
 ![GitHub top language](https://img.shields.io/github/languages/top/rafamatoso/angular2-course)
 ![GitHub last commit](https://img.shields.io/github/last-commit/rafamatoso/angular2-course)
-![GitHub repo size](https://img.shields.io/github/repo-size/rafamatoso/unifbv-portalead)
+![GitHub repo size](https://img.shields.io/github/repo-size/rafamatoso/angular2-course)
 
 Curso que aborda os conceitos básico ao avançado em Angular 2+.
 
